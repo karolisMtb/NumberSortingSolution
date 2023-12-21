@@ -1,0 +1,6 @@
+@NumberSortingSolution.API_HostAddress = http://localhost:5084
+
+GET {{NumberSortingSolution.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
